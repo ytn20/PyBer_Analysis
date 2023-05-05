@@ -13,6 +13,8 @@ Pyber understand how to better serve their communities.
 
 ## PyBer Analysis Results:
 
+![load_data](https://github.com/ytn20/PyBer_Analysis/blob/main/PyBer_fare_summary.png?raw=true)
+
 ### Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
       - From the summary DataFrame and multiple-line chart we are able to see that Urban cities have the highest number of
 	total rides and total drivers and hence the highest number of fares. For this reason their average fare per ride and average fare per driver
